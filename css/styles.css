@@ -109,13 +109,13 @@ hr {
 }
 
 .skill-img {
-  width: 10%;
+  width: 25%;
   float: left;
   margin-right: 30px;
 }
 
 .skill-hot {
-  width: 10%;
+  width: 25%;
   float: right;
   margin-left: 30px;
 }
